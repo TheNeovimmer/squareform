@@ -223,10 +223,10 @@ If you find this project helpful, please consider:
 
 ## 📞 Get in Touch
 
-- **Portfolio**: [Live Demo](https://your-demo-link.com)
-- **Email**: your-email@example.com
+- **Portfolio**: [Live Demo](https://ilyes-bouzayen.vercel.com)
+- **Email**: ilyesbouzayen@hotmail.com
 - **Twitter**: [@TheNeovimmer](https://twitter.com/TheNeovimmer)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Ilyes Bouzayen](https://linkedin.com/in/ilyesbouzayen)
 
 ---
 
