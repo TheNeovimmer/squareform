@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 512 512">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <line class="st0" x1="256.07" y1="69.4" x2="452.07" y2="264.93"/>
+  <line class="st0" x1="60.07" y1="265.16" x2="256.07" y2="69.4"/>
+  <line class="st0" x1="256.07" y1="264.93" x2="354.19" y2="167.28"/>
+  <line class="st0" x1="158.19" y1="167.16" x2="256.07" y2="264.93"/>
+  <rect x="211.07" y="24.63" width="90" height="89.53" rx="16" ry="16"/>
+  <rect x="309.07" y="122.16" width="90" height="90" rx="16" ry="16"/>
+  <rect x="113.07" y="122.16" width="90" height="90" rx="16" ry="16"/>
+  <rect x="15.07" y="220.16" width="90" height="90" rx="16" ry="16"/>
+  <rect x="211.07" y="220.16" width="90" height="89.53" rx="16" ry="16"/>
+  <rect x="407.07" y="220.16" width="90" height="89.53" rx="16" ry="16"/>
+  <rect x="228.57" y="428.5" width="55" height="55" rx="16" ry="16"/>
+  <rect x="326.57" y="336.5" width="55" height="55" rx="16" ry="16"/>
+  <rect x="130.57" y="336.5" width="55" height="55" rx="16" ry="16"/>
+</svg>
